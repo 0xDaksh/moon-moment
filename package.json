@@ -2,7 +2,7 @@
   "name": "moon-moment",
   "version": "0.0.0",
   "description": "A neat Moment.js wrapper for Moon. ",
-  "main": "dist/index.js",
+  "main": "dist/moon-moment.js",
   "scripts": {
     "test": "npm run test"
   },
